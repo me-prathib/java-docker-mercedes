@@ -114,7 +114,7 @@
       
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>The Best or Nothing</h1></div>
+			<div class="row text-center"><h1>Welcome to mercedes benz devops training</h1></div>
 		 
 		 
 		 </div>
